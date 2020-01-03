@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delyvr.it</title>
+    <link>/</link>
+    <description>Recent content on Delyvr.it</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 17:39:43 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pricing</title>
+      <link>/pricing/pricing/</link>
+      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
+      
+      <guid>/pricing/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>WidgetCo is the world leader in widget production.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+theme = "landing-page-hugo"
+baseurl = ""
+languageCode = "en-us"
+title = "Delyvr.it"
+canonifyUrls = "true"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+    description = "Coming soon"
+    custom_css = ["css/local.css"]
+
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:info@delyvr.it"
+[[params.social]]
+    title = "facebook"
+    icon = "facebook"
+    url = "https://facebook.com/delyvrit"
+[[params.social]]
+    title = "instagram"
+    icon = "instagram"
+    url = "https://instagram.com/delyvrit"
